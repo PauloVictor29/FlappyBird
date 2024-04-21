@@ -1,6 +1,4 @@
 
-Claro, aqui está uma sugestão de descrição para o seu projeto no GitHub, destacando as principais características e tecnologias utilizadas:
-
 🐦 Flappy Bird Clone em Python com Pygame 🚀
 
 Este é um clone do clássico jogo Flappy Bird desenvolvido em Python utilizando a biblioteca Pygame. O projeto inclui todas as funcionalidades essenciais do jogo, como movimento do pássaro, geração dinâmica de obstáculos (canos), detecção de colisão e contagem de pontos.
